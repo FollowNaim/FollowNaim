@@ -1,6 +1,7 @@
+![](https://github.com/FollowNaim/FollowNaim/blob/main/gitBannerOfNaim.png?raw=true)
+
 ### Hi There 👋, 
 # I'M NAIM
-![](https://github.com/FollowNaim/FollowNaim/blob/main/gitBannerOfNaim.png?raw=true)
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction
 
@@ -15,5 +16,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 ☑️ HTML5 / CSS3 / SASS / Bootstrap <br>
 ☑️ WordPress <br> 
 ☑️ Photoshop / Illustrator <br>
+
+## 🔎 Here is summary: 
 
 ![GitHub metrics](https://metrics.lecoq.io/FollowNaim)  
