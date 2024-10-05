@@ -1,22 +1,21 @@
-![](https://github.com/FollowNaim/FollowNaim/blob/main/gitBannerOfNaim.png?raw=true)
+# 💫 About Me:
+👨‍💻 Frontend Web Developer<br>💼 Open To Job Opportunities<br>🌎 <a href="https://naim.vercel.app">naim.vercel.app</a> <br>
 
-### Hi There 👋, 
-# I'M NAIM
 
-I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ataurrahmannaim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/naimxw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LevelZero13) 
 
-[![Website](https://img.shields.io/website?label=Naim.Vercel.App&style=for-the-badge&url=https%3A%2F%2FNaim.Vercel.App)](https://naim.vercel.app)
-<p align="left"> <a href="https://twitter.com/NaimXW" target="blank"><img src="https://img.shields.io/twitter/follow/NAIMXW?logo=twitter&style=for-the-badge" alt="NaimXW" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NEXT JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-## 👨‍💻 Skills, Experiance & Learning: 
-☑️ JavaScript <br>
-🌗 Node JS / Express JS <br>
-☑️ React JS / Next JS <br>
-🌗 Mongo DB / My SQL <br>
-☑️ HTML5 / CSS3 / SASS / Bootstrap <br>
-☑️ WordPress <br> 
-☑️ Photoshop / Illustrator <br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=follownaim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=follownaim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=follownaim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔎 Here is summary: 
+---
+[![](https://visitcount.itsvg.in/api?id=follownaim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub metrics](https://metrics.lecoq.io/FollowNaim)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
