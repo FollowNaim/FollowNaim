@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Frontend Web Developer<br>💼 Open To Job Opportunities<br>🌎 <a href="https://naim.vercel.app">naim.vercel.app</a> <br>
+👨‍💻 Mern Developer<br>💼 Open To Job Opportunities<br>🌎 <a href="https://naim.vercel.app">naim.vercel.app</a> <br>
 
 
 ## 🌐 Socials:
