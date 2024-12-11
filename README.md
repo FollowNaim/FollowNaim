@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Mern Developer<br>💼 Open To Job Opportunities<br>🌎 <a href="https://naim.vercel.app">naim.vercel.app</a> <br>
+👨‍💻 Full Stack Engineer<br>💼 Open To Job Opportunities<br>🌎 <a href="https://naim.vercel.app">naim.vercel.app</a> <br>
 
 
 ## 🌐 Socials:
