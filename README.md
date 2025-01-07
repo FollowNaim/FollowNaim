@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/FollowNaim/FollowNaim/refs/heads/main/Banner%20of%20Naim.png"  />
+</div>
+
+###
+
 <h1 align="left">Naim : Front-End Developer</h1>
 
 ###
