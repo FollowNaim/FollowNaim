@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/FollowNaim/FollowNaim/refs/heads/main/Banner%20of%20Naim.png"  />
+  <img src="https://raw.githubusercontent.com/FollowNaim/FollowNaim/refs/heads/main/Banner%20of%20Naim.png" width="100%"  />
 </div>
 
 ###
