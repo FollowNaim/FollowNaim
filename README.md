@@ -12,7 +12,9 @@
 
 ###
 
-<p align="left">Hi, I'm Naim, a passionate Front-End Developer from Bangladesh. I specialize in creating dynamic, user-friendly web solutions that bring ideas to life. If you're seeking someone to transform your digital concepts into reality, I'm here to make it happen.</p>
+<p align="left">Hi, I'm Naim, a passionate Front-End Developer from Bangladesh with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I specialize in creating dynamic, responsive, and user-friendly web solutions that bring ideas to life.
+
+With a strong focus on building sleek designs and robust functionality, I thrive on solving challenges and delivering exceptional user experiences. If you're looking for a developer to transform your digital vision into reality, I'm here to make it happen. <br/> Let’s create something amazing together! 🚀</p>
 
 ###
 
